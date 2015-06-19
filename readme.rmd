@@ -3,5 +3,9 @@ title: 'Calculation of BMI'
 output: html_document
 ---
 
-This is to calculate Body Mass Index (BMI) based on input body weight and height. The application can be find here <https://l8liu.shinyapps.io/project>.
+This is to calculate Body Mass Index (BMI) based on input body weight and height. 
+
+The application can be find here <https://l8liu.shinyapps.io/project>.
+
+The presentation can be found here <http://rpubs.com/l8liu/87060>.
 
